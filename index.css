@@ -1,0 +1,21 @@
+body{
+	background-color:grey;
+	font-style:courier;
+}
+nav{
+	display:inline;
+	float:right;
+	padding:15px
+}
+header{
+	font-style:courier;
+	border: 5px groove #1C6EA4;
+	background-color:white;
+}
+header h1{
+	display:inline;
+	line-height:100px;
+}
+a:hover{
+	color:green;
+}
