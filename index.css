@@ -1,5 +1,5 @@
 body{
-	background-color:grey;
+	background-color:cream;
 	font-style:courier;
 }
 nav{
@@ -17,5 +17,5 @@ header h1{
 	line-height:100px;
 }
 a:hover{
-	color:green;
+	color:red;
 }
