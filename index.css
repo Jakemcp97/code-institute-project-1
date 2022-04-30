@@ -24,5 +24,6 @@ li{
 }
 img{
 	border: 4px ridge #FF0012;
-	
+	object-fit: contain;
+	width:auto;
 }
