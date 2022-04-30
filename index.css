@@ -1,5 +1,5 @@
 body{
-	background-color:cream;
+	background-color:white;
 	font-style:courier;
 }
 nav{
@@ -9,7 +9,7 @@ nav{
 }
 header{
 	font-style:courier;
-	border: 5px groove #1C6EA4;
+	border: 5px groove red;
 	background-color:white;
 }
 header h1{
@@ -18,4 +18,11 @@ header h1{
 }
 a:hover{
 	color:red;
+}
+li{
+	border: 5px groove red;
+}
+img{
+	border: 4px ridge #FF0012;
+	
 }
